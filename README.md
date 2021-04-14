@@ -2,7 +2,7 @@
 
 <b>Talking about Personal Stuffs!</b>
 - 🔭 I’m currently working on few Java and Android Projects
-- 👯 I’m looking to collaborate on DeviceInfo
+- 👯 I’m looking to collaborate on <a href="https://github.com/mrudultora/DeviceInfo">DeviceInfo</a>
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything !
 - 📫 How to reach me: mrudultora@gmail.com - <a href="https://www.linkedin.com/in/mrudul-tora-571004166/">LinkedIn</a> - <a href="https://stackoverflow.com/users/13476891/mrudul-tora">StackOverflow</a>
