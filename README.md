@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Fun facts are never fun !
 
 
-[![Mrudul's's github stats](https://github-readme-stats.vercel.app/api/?username=mrudultora&count_private=true&show_icons=true&theme=dark)](https://github.com/mrudultora/github-readme-stats)
+[![Mrudul's's github stats](https://github-readme-stats.vercel.app/api/?username=mrudultora&count_private=true&show_icons=true&theme=light)](https://github.com/mrudultora/github-readme-stats)
