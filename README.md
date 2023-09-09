@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Mrudul!
 
 <b>Talking about Personal Stuffs!</b>
-- 🔭 I’m currently working on few Java and Android Projects
+- 🔭 I’m currently working on few Java (Spring Boot) and Android Projects
 - 👯 I have developed <a href="https://play.google.com/store/apps/details?id=com.toralabs.deviceinfo">DeviceInfo</a> and <a href="https://github.com/mrudultora/Colorpicker">Colorpicker</a>, and both of these are used by 150K+ people worldwide.
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything !
