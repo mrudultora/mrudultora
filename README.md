@@ -2,7 +2,7 @@
 
 <b>Talking about Personal Stuffs!</b>
 - 🔭 I’m currently working on few Java (Spring Boot) and Android Projects
-- 👯 I have developed <a href="https://play.google.com/store/apps/details?id=com.toralabs.deviceinfo">DeviceInfo</a> and <a href="https://github.com/mrudultora/Colorpicker">Colorpicker</a>, and both of these are used by 500K+ people worldwide as of now.
+- 👯 I have developed <a href="https://play.google.com/store/apps/details?id=com.toralabs.deviceinfo">DeviceInfo</a> and <a href="https://github.com/mrudultora/Colorpicker">Colorpicker</a>. To date, over 500K users worldwide have used these apps/library.
 - 🤔 I’m looking for help with anything in which you have expertise.
 - 💬 Ask me about anything !
 - 📫 How to reach me: mrudultora@gmail.com - <a href="https://www.linkedin.com/in/mrudultora">LinkedIn</a> - <a href="https://stackoverflow.com/users/13476891/mrudul-tora">StackOverflow</a>
